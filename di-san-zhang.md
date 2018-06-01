@@ -26,5 +26,3 @@
 
 ![](.gitbook/assets/42.jpg)
 
-
-
