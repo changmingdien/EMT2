@@ -1,23 +1,18 @@
-# Initial page
+---
+description: (消防署107年版)
+---
 
-## Getting Super Powers
+# 中級救護技術員訓練教材
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+* 編/著/譯者 ／ 內政部消防署
+* 出版機關 ／ 內政部消防署
+* 出版日期 ／ 2018-04
+* 主題分類 ／ 消防
+* 施政分類 ／ 緊急救護
+* ＩＳＢＮ ／ 9789860555035
+* ＧＰＮ ／ 1010700331
+* 頁數/張數/片數 ／ 382
+* 裝訂 ／ 平裝
 
 
 
