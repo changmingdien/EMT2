@@ -8,13 +8,13 @@
 
 ![](.gitbook/assets/24.jpg)
 
-![](.gitbook/assets/25.jpg)
-
 ## 第三節
 
-![](.gitbook/assets/26.jpg)
+![](.gitbook/assets/25.jpg)
 
 ## 第四節
+
+![](.gitbook/assets/26.jpg)
 
 ![](.gitbook/assets/27.jpg)
 
