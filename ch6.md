@@ -132,7 +132,7 @@
 
 ![](.gitbook/assets/131.jpg)
 
-![](.gitbook/assets/132%20%281%29.jpg)
+![](.gitbook/assets/132.jpg)
 
 ![](.gitbook/assets/133.jpg)
 
