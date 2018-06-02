@@ -20,4 +20,6 @@
 * [第十二章 空中救護之概論、現況與相關法規](ch12.md)
 * [第十三章 病人轉送、轉診或轉院](ch13.md)
 * [第十四章 核生化災難概論與演練](ch14.md)
+* [第十五章 大量傷病患與檢傷分類概論及演練](di-shi-wu-zhang-da-liang-bing-huan-fen-gai-ji-yan.md)
+* [ch16](ch16.md)
 
