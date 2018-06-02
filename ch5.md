@@ -8,7 +8,7 @@
 
 ![](.gitbook/assets/58.jpg)
 
-![](.gitbook/assets/59%20%281%29.jpg)
+![](.gitbook/assets/59.jpg)
 
 ![](.gitbook/assets/60.jpg)
 
@@ -16,19 +16,19 @@
 
 ### 二、呼吸
 
-![](.gitbook/assets/62%20%281%29.jpg)
+![](.gitbook/assets/62.jpg)
 
-![](.gitbook/assets/63%20%281%29.jpg)
+![](.gitbook/assets/63.jpg)
 
 ### 三、脈搏
 
-![](.gitbook/assets/64%20%281%29.jpg)
+![](.gitbook/assets/64.jpg)
 
 ### 四、血壓
 
 ![](.gitbook/assets/65.jpg)
 
-![](.gitbook/assets/66%20%281%29.jpg)
+![](.gitbook/assets/66.jpg)
 
 ![](.gitbook/assets/67.jpg)
 
