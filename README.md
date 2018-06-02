@@ -10,5 +10,7 @@
 * 頁數/張數/片數 ／ 382
 * 裝訂 ／ 平裝
 
-
+{% hint style="info" %}
+打包下載：[https://github.com/david082321/EMT2\_res/archive/master.zip](https://github.com/david082321/EMT2_res/archive/master.zip)
+{% endhint %}
 
